@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347527824887",
+    "project_id": "believable-7a3e5",
+    "storage_bucket": "believable-7a3e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347527824887:android:a1bc74219f63e199e75af2",
+        "android_client_info": {
+          "package_name": "com.example.Believable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347527824887-ec1ma9rdb9qg1mk322g7ema63l1vfhmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1F-7hd52qA_qb4lIa0MHdM3tH44Joaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347527824887-ec1ma9rdb9qg1mk322g7ema63l1vfhmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
